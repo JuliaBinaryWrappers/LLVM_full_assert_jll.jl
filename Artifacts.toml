@@ -1,268 +1,268 @@
 [[LLVM_full_assert]]
 arch = "aarch64"
-git-tree-sha1 = "441f392a77f1a622bef911a317d3c66b1be3ba1c"
+git-tree-sha1 = "4970fda3b3df33ecb7b74199e83e5e2492f7bbf3"
 os = "macos"
 
     [[LLVM_full_assert.download]]
-    sha256 = "1513ae756cec8f29cdab1c36e5a33cf5a26dd45ea3066df706d387367db9fb70"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.aarch64-apple-darwin.tar.gz"
+    sha256 = "8465f6802283ac513d7d318804cf5c1add2f9d9b3e470df1461dd8bbe01e4220"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.aarch64-apple-darwin.tar.gz"
 [[LLVM_full_assert]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f742d165776133b4bfe293853a08c5af5a40f810"
+git-tree-sha1 = "5fd2e18a02c4384d920d3835d291526feec7885a"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "58e61f9e0c05230216aa3cf6a911a25b26d07412586a3fc2d06d2ffc500215d9"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "797ce5ebf25c44545a034463c64068beef0b35d2a1a6475dbbbf25fdfcfea613"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.aarch64-linux-gnu-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ac389583d6adec5d51c6d7371f26e8951e878181"
+git-tree-sha1 = "7c60b4ca3a7123ae55be53a57f136cc4c915b04d"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "12e64242db1ad5dedf02c4f32d5838de0a46b8707c332750da326faf5361fb14"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "3af87680aaed8def42f445a7c44b1dd23b2a38d58cdda1927c3c0a5bc3fc7597"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.aarch64-linux-gnu-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "46aadd13ac546eaa11daf8884385bcbd7ffb5b6d"
+git-tree-sha1 = "82b734d2a47aab38ec4f0f6eefb14808d02e3684"
 libc = "musl"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "0a2e2b16b3e17e0e6fbdbb77df377b588077a95dc815548a8ec5b1334aa11d20"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "65d12478e8870a1ee761bfc8c3f4d6c39b35dd83cda45817d6b6b362498221b3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.aarch64-linux-musl-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d644a4a7324a9b0bf87094d4cbebc1106e88d4db"
+git-tree-sha1 = "1ce3c94b2105fc43fc7aac74edca35e33ff1370a"
 libc = "musl"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "8e0ea7f59b6870c907d73ab8f5fb73b4c5b3a4fa4d196275fed7a399ecd02ef6"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "d08f4a2dc0e63992095992fa754808d8b8b670c640136baab1594973127d8d9e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.aarch64-linux-musl-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "488f39944420a4f7b31b2e59e79f479126290c96"
+git-tree-sha1 = "f7f47ffefae98c6ab677694354aa732ed38b62d7"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "3cced5d7edd9c056c673e8760253f7d75ebd7c8923bac749afbc0f214535e7f7"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "ad91b6f7d3424c2a76f117805fa0e4eb3c529730f5654d2dc4a1c7de0ecc4dea"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d15e8a6b5d00fc3b19d0138d86379af871e25581"
+git-tree-sha1 = "b8e2efb3de9b46d2d75d6dbccc8ed318b3311eb2"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "2ae463b5bd5bfa77546f1b4f0723fdda1cc8078821dc841521c7e5139d912e4b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "595158d12e664b11987843c1d66c243e7e0773bf54a8ab5a563a2f39b158f1d5"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1fe09607cf1c78d6db281261954700a82af01134"
+git-tree-sha1 = "4693ba17da8edd7cfe8cbde77fb1b04b5d4ce8b3"
 libc = "musl"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "c7a59843bdd721d3736d1d46296074310776ac47ea580cb3b3f6489522007774"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "a652842e67309728a80e83802b40a27a00f3596f81c3f70f17550c87bdab8d54"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fcb498524557298ec0d15b5efa8e141a0048db96"
+git-tree-sha1 = "c7badb166c37ca155ecf4bf127bf8398044ece7c"
 libc = "musl"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "823e0930580c4f642f882c51551344a8916e4a3634159b40f562f5fd57a2b5be"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "4e9f64c0ae4c30f77b1542d1d5366fdea5617bc78dd394560c520814ab85c410"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5a94dfec1e7884a65cc4c8f9eeea5f578320d950"
+git-tree-sha1 = "6b88c66f4e1c5599d2af464ff41de1d091ae9696"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "ff0cb27502b24792715106a32851ea4eedcd2775326ef0e5fe68982692106745"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "1700238b8abc77a6ca84bab442bb10d64c95a1bf7461bb2d3a4aee3b8096ffa8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "425093f32491b20294ce1f8582334f03b9ac0e4a"
+git-tree-sha1 = "a8e47fe79dffcd5a410097276c81191f61583ad7"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "19e16012e2a057b1b096ad4e4902a0f8411554dbe1b10bc124c252196a7987b5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "e544f84c7f815f62fa43a99c65f2c0427a12c98acd283f90007587f2bdf2e8c3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b69e0931b742486747f247adcb3ffca418b12cda"
+git-tree-sha1 = "b41603f59c88009fd79cc468ccedb0bccbc9f504"
 libc = "musl"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "092f5ca63ccb173236677ceca2c1ad0278cae65106423a6800ec0a90f6900639"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "fca7f5fbea3d4175040e9892a85a306e0b071f02eee4af9e940400f81c2b0a99"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7ab72448fb6d91272839d3bb1303ad240ba0203"
+git-tree-sha1 = "0e5996208b031b7cd856e94812a6ad6e66d553e1"
 libc = "musl"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "145731aad263c928b22b31d70516e464b7dfa86ac7370c77b6d34024ef42baf3"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "32dd2a14db78accf5ed7bd0fb9f83e16271925467e110d97a084f8107b219e5b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a036d4b2c47299ebd5956b43cbb144b8351a553d"
+git-tree-sha1 = "01508dc0274dfbd58d77a6c2fc7a00e8bf3ea50a"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "17b3486bfb1491180e5c252cdb0adae40004e1b1366a67fb18ac697c47b540ec"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "3361080cb10fec43d72e84a60febca57139f6b47d910272635904867512b5d25"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.i686-linux-gnu-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f5880ca07e55423326b9b184207cf63e75ab7296"
+git-tree-sha1 = "0c6a679c0d47cbcaee4cadfb0685d201cd69bba1"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "917d302c502852b63a3efc1ca8a25530c968b8a95f1bcf1cb2a60c60fae1f3aa"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "c34abfe86c3162cbd8ca43ecd3f8c22dc24bc963fa2cb9d35e4b59f7337d30f2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.i686-linux-gnu-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a10ff2d91b154bf8892f4fd1db7078913409f89e"
+git-tree-sha1 = "ec5d9384e52758ae13e25893206933c0ae9a17ae"
 os = "windows"
 
     [[LLVM_full_assert.download]]
-    sha256 = "6254c5a729bfcb6b5b6acf4cd402734663b291a98d9ae8a6185d0a54fe9be83a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a2eaa84424e9d0ca95f0f175e78b24eebf0f12d75b26f673264d3dbd22edf50a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.i686-w64-mingw32-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1543aebb69de95a82f4fbca935cf2da310ba4d6"
+git-tree-sha1 = "1e88a03ab61b160526300e9efb7f03e3bdaa9d49"
 os = "windows"
 
     [[LLVM_full_assert.download]]
-    sha256 = "2fb95fea96d8c8398d76b24c4876dd5441bedf3f9e5374cc56071dcbfde0f566"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "e958dcb3aded23ccff9ae2bbcf93ec2bb1e3390ed4e2977c1f0b089604499da4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.i686-w64-mingw32-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a01dfbd079ab81f3beae53cda7a1b7749e91d03f"
+git-tree-sha1 = "abe0bcb7cb31e98f98bf49e07188abfd61cd9c16"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "67cc05350bb172ff99b3f68dcd3ae2cd280f4d5105fc84d1444574d2b64b5f6a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "6009362756a2e6577385cd2294835f8104a60726b8a039d38cfd325cdf0d86a5"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "defd544157b3a62b2250a820b8a42ab091dd487b"
+git-tree-sha1 = "ff553a19800435c2d1371d08ae36f4ccdb604783"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "35c55a04bef269316b4192f962188d9453e5b52cd55cc084d72eb423352d82bb"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "65c24b73d70931daa8a21558c6dac33db8e010459ec95e82c244a291cc068fe1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "x86_64"
-git-tree-sha1 = "c637e430f95e7074c1fb3a3cb804e874faef6017"
+git-tree-sha1 = "d047968211c4419cadc2176d97dc8cd2182ce295"
 os = "macos"
 
     [[LLVM_full_assert.download]]
-    sha256 = "35ca7f7d7952a57293798ced6526bb4cf10cec773943607c99a7e526d4199e99"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.x86_64-apple-darwin.tar.gz"
+    sha256 = "d945cc5f0dd6fd0d0ea6ace2d956c9ba879130d3cbaf6fd60bf1fa0f0372dbf8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.x86_64-apple-darwin.tar.gz"
 [[LLVM_full_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "35f79665d468df78d0541e6ce6a0ded81bf12e0c"
+git-tree-sha1 = "c0b2889aacd0b0bc9bd268edc0eb4fc341576d2b"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "2d775b68d5247a156d20e624c3719591a19db3bde1659c43b793699d10dbcc71"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "4f06b7632c1db75089f969a2bf4156e1d1829443ce914e26e51817110a29dd67"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.x86_64-linux-gnu-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e9ee2f4213caaa19407c405455f52abc4487e5fb"
+git-tree-sha1 = "5056c73ec69956ba702263816d31d8112fe60fc7"
 libc = "glibc"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "20795ecb6728d77cbd87e29a8ce56f21a00f8b65f6a9fd576c54666017e9c9e1"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "da9cf23acaef9eff7fbb2231443d9e9c82cedde5be0953782e4bff2e535df364"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.x86_64-linux-gnu-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d829cf858b8bf6c31eb737192dce3dfa9f14a63"
+git-tree-sha1 = "e21e1a5382f77f0764725d1e429893e3d6c3e422"
 libc = "musl"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "7fcfdc1aa9a18063cf02cbaa5003d8f6ced609a56eeb316a5d4f4169ae38f3f9"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "0a9c7e153f7d37096f2f026efb456ee7361dcfcbd0e3208627b0a0de6061d781"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.x86_64-linux-musl-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "718c77e505388d98a9ace05458c64d30cdcaa70c"
+git-tree-sha1 = "2a9381c674b65b9dbf6e90fb904d5a9335436f40"
 libc = "musl"
 os = "linux"
 
     [[LLVM_full_assert.download]]
-    sha256 = "6ebc3c736c1c4249d701a66654296b175977deb9e6fe45bbc68d3e2d50af9965"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "6084e90a3cc9305726a3a98ffa35714c82889309aeecb52ba77f70ff1d12d727"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.x86_64-linux-musl-cxx11.tar.gz"
 [[LLVM_full_assert]]
 arch = "x86_64"
-git-tree-sha1 = "5c125390107bd59289e33a12a18656eab715ba65"
+git-tree-sha1 = "1b02e0895ed6a7bbecffe82f366dda530b59fc67"
 os = "freebsd"
 
     [[LLVM_full_assert.download]]
-    sha256 = "34754c767fa2f9ff4ae26ede650ed0da97247b4492f494eb9ce9714e7df96c56"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "de7ca8fe5875153b4abe801c7fd6843e5bc47597f0cdcdf2f8c5a59bdb1a9bd1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.x86_64-unknown-freebsd.tar.gz"
 [[LLVM_full_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b9a9744df8fe86a865151edbde36f258e154425"
+git-tree-sha1 = "0a06e91f5bc06ac67343bf0c10983c443b600b74"
 os = "windows"
 
     [[LLVM_full_assert.download]]
-    sha256 = "136421e31f3afc82d08850f0b4925b193672a9b04745d040ac53849054b321b7"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "3d7026e1e959ddc4c8a7c2da70990ffe5f7c462443f7d13a7ccf2fe52dc2af93"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.x86_64-w64-mingw32-cxx03.tar.gz"
 [[LLVM_full_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f877540717821c0744aeac9efc99861c3827bd72"
+git-tree-sha1 = "0c03df9e0032e16c84dfa4767b8946c9d39412b8"
 os = "windows"
 
     [[LLVM_full_assert.download]]
-    sha256 = "b0234b6205d8a85d0814f18a32c1a80eb4f6a0666590059c0f3f203de08e044d"
-    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v17.0.6+5/LLVM_full_assert.v17.0.6.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "63456a6f42ab79298bd856c9e2f0df3e17f31f2468e7a0117a874b8f387a760f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVM_full_assert_jll.jl/releases/download/LLVM_full_assert-v18.1.7+0/LLVM_full_assert.v18.1.7.x86_64-w64-mingw32-cxx11.tar.gz"
